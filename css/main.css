@@ -1,0 +1,46 @@
+body, html {
+	user-select: none;
+	height : 100%;
+	margin : 0;
+}
+
+#back {
+	position : absolute;
+}
+
+.bg-blue {
+	background-color : #A5C6EF;	
+}
+
+.bg-l-blue {
+	background-color : #BAD5DD; 
+}
+
+.bg-red {
+	background-color : #FC7E7E;
+}
+
+.bg-purple {
+	background-color : #C8B8F2;
+}
+
+.bg-l-purple {
+	background-color : #C9D2FC;
+}
+
+.bg-yellow {
+	background-color : #F2CC7B;
+}
+
+.bg-teal {
+	background-color : #A2D8C0;
+}
+
+.bg-green {
+	background-color : #D7EDAF;
+}
+
+img {
+	user-select : none;
+	width : 100%;
+}
